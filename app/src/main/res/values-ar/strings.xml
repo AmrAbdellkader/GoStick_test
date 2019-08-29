@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">GoStick_test</string>
+
+        <string name="my_account">حسابى</string>
+        <string name="reservations">حجوزاتى</string>
+        <string name="rate">تقييم</string>
+        <string name="contact_us"> تواصل معنا</string>
+        <string name="language">اللغة</string>
+
+        <string name="log_out">تسجيل الخروج</string>
+        <string name="change_password"> تغيير كلمة المرور</string>
+        <string name="user_name"> اسم المستخدم</string>
+        <string name="email_address"> البريد الالكترونى</string>
+        <string name="log_in">تسجيل الدخول</string>
+        <string name="sign_up">حساب جديد</string>
+        <string name="todo">TODO</string>
+        <string name="password">كلمة المرور</string>
+        <string name="age">العمر</string>
+        <string name="phone_number"> رقم الهاتف</string>
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="free_rooms"> الغرف الفارغة</string>
+        <string name="play_station_name">  اسم البلايستاشن</string>
+        <string name="forget_password"> نسيت كلمة المرور ؟</string>
+        <string name="new_password"> كلمة المرور الجديدة</string>
+        <string name="confirm_new_password"> تأكيد كلمة المرور </string>
+        <string name="string_language_english">English</string>
+        <string name="string_language_arabic">عربى</string>
+        <string name="already_have_account_login">لديك حساب بالفعل؟تسجيل الدخول</string>
+        <string name="playstation_address">عنوان البلايساتشن</string>
+        <string name="reserve">احجز</string>
+        <string name="available_games">الالعاب المتاحة</string>
+        <string name="available_services">الخدمات المتاحة</string>
+        <string name="reserved_successfully">تم الحجز بنجاح</string>
+        <string name="end_time">وقت نهاية الحجز</string>
+        <string name="start_time">وقت بداية الحجز</string>
+        <string name="number_of_hours">عدد الساعات</string>
+        <string name="start_reservation">ابدأ الحجز</string>
+        <string name="end_reservation">انهاء الحجز</string>
+        <string name="delete_reservation">الغاء الحجز</string>
+        <string name="from">من:</string>
+        <string name="to">الى:</string>
+        <string name="open">open</string>
+        <string name="promo_code">برومو كود</string>
+        <string name="confirm">تأكيد</string>
+        <string name="title_activity_main2">Main2Activity</string>
+        <string name="navigation_drawer_open">Open navigation drawer</string>
+        <string name="navigation_drawer_close">Close navigation drawer</string>
+        <string name="nav_header_title">Android Studio</string>
+        <string name="nav_header_subtitle">android.studio@android.com</string>
+        <string name="nav_header_desc">Navigation header</string>
+        <string name="action_settings">الاعدادات</string>
+
+        <string name="sittings">الاعدادات</string>
+        <string name="search">بحث</string>
+        <string name="open1">open</string>
+        <string name="time">الوقت</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.recyclerview.widget.RecyclerView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/recycler_view_reserve"
+        android:name="com.example.go_stick.FragMyReservations"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:layout_gravity="center"
+        app:layoutManager="LinearLayoutManager"
+        tools:listitem="@layout/lay_reservations_item" />

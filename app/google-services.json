@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "946644644970",
+    "firebase_url": "https://gosticktest.firebaseio.com",
+    "project_id": "gosticktest",
+    "storage_bucket": "gosticktest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946644644970:android:750703a8e359cf27",
+        "android_client_info": {
+          "package_name": "com.example.gostick_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946644644970-nlp59dose4l721ft1ikv9clcq7g78coh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gostick_test",
+            "certificate_hash": "e31248fa4fdf9688d9219588151118c8c787791f"
+          }
+        },
+        {
+          "client_id": "946644644970-t1e8hr0q8u73du2havl1qrf0g2577vln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa4AHlxKJfyfiUREfebiA6QQ9bEb1LpvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946644644970-t1e8hr0q8u73du2havl1qrf0g2577vln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
